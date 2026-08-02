@@ -1,1 +1,15 @@
+Dataset: Alzheimer's MRI Dataset
 
+Source:
+https://www.kaggle.com/datasets
+
+Instructions:
+1. Download the dataset manually.
+2. Extract it inside the dataset folder.
+3. Keep the following folder structure:
+
+dataset/
+├── NonDemented/
+├── VeryMildDemented/
+├── MildDemented/
+└── ModerateDemented/
